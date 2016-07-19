@@ -9,7 +9,7 @@ html, body, #page-container {
   background-color: #ECEFF1;
   position: relative;
 }
-h1, h3 {
+h1, h3, h4 {
   text-align: center;
   color: #9C27B0;
   margin: 0;
