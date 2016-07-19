@@ -1,7 +1,7 @@
 # Asynchronous programming examples
 
-# Animating Bars
-## Concepts used
+## Animating Bars
+### Concepts used
 ```
 ES6 class
 setInterval
